@@ -1,0 +1,17 @@
+{
+  "Sigma Simulator": {
+    "Price": "2.00",
+    "ID": "price_1SXDho4Tl8gkzcPnqAZ0JKfo",
+    "Description": "What the sigma"
+  },
+  "Wandering Wizards": {
+    "Price": "4.00",
+    "ID": "price_1SXzjd4Tl8gkzcPnrVV7okE1",
+    "Description": "Run around shooting foes and collect treasure for better staffs and gear"
+  },
+  "Rainfall": {
+    "Price": "80.00",
+    "ID": "price_1SXzqz4Tl8gkzcPnioB2ubqb",
+    "Description": "rainy shooter"
+  }
+}
